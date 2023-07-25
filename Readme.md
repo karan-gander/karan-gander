@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/karan-meghawal-4b14a71b5/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karan meghawal" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/karan-gander/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karan meghawal" height="30" width="40" /></a>
 <a href="https://instagram.com/karan_meghawanshi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@karan_meghawanshi" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/karan coder" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="karan coder" height="30" width="40" /></a>
 </p>
