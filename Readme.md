@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Karan Meghawal</h1>
+<h1 align="center">Hi 👋, I'm Karan Gander</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" alt"codding" width="400" src="https://cdn.dribbble.com/users/1876781/screenshots/6169542/web_character.gif">
 
